@@ -101,3 +101,32 @@ span{
     font-size:0.85rem;
 
 }
+/*panel styling*/
+.panel{
+    height:30px;
+    background-color: #222f3d;
+    display:flex;
+    color:white;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.panel-ops p{
+    display:inline;
+    margin-left: 10px;
+}
+.panel-ops{
+    width:70%;
+    font-size:0.85rem;
+}
+.deal{
+    font-size:0.9rem;
+    margin-right:10px;
+}
+
+/*hero section*/
+.hero-section{
+    background-image: url("hero.jpeg");
+    
+}
+
+
